@@ -1,0 +1,9 @@
+//Aulas de Junções Internas\\
+
+--Realizar desambigação no atributo da condição de junção
+
+SELECT fname, lname, name
+FROM department d JOIN 
+
+--Se os nomes das colunas que unem as tabelas forem idênticos
+
